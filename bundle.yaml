@@ -1,6 +1,6 @@
 series: xenial
 description: |
-  HPC SLURM Bundle
+  Slurm minimum bundle
 applications:
   slurm-controller:
     charm: cs:~omnivector/slurm-controller
